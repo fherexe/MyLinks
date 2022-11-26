@@ -41,11 +41,6 @@ body{
     
 }
 
-.linktree a:hover{
-    font-size: 1rem;   
-}
-
-
 @media (min-width 1024px){
     .linktree{
         width: 40vw;
