@@ -3,11 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: white;
+    color: rgb(253, 253, 253);
 }
 
 body {
-    background-color: #eb7040;
+    background-color: #202020;
 }
 
 .linktree {
@@ -35,9 +35,8 @@ body {
     text-transform: uppercase;
     font-weight: 500;
     text-align: center;
-    border-radius: 44px;
-    background: linear-gradient(315deg, #1e1e1e, #191919);
-    box-shadow: 5px 7px 7px 0px #1111117a;
+    border-radius: 2px;
+    background: linear-gradient(315deg, #1e1e1e, #9c9b9b);
 }
 
 .linktree a:hover{
